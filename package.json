@@ -1,0 +1,15 @@
+{
+    "name": "profile-generator",
+    "version": "1.0.0",
+    "description": "Creates a team from user input",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "David Greenhouse",
+    "license": "",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^24.9.0"
+    }
+  }
