@@ -4,12 +4,12 @@
     "description": "Creates a team from user input",
     "main": "index.js",
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "author": "David Greenhouse",
     "license": "",
     "dependencies": {
-      "inquirer": "^8.2.4",
-      "jest": "^24.9.0"
+        "inquirer": "^8.2.4",
+        "jest": "^24.9.0"
     }
-  }
+}
